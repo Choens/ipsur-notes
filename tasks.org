@@ -1,0 +1,5 @@
+* TODO Read / Complete
+* TODO Install IPSUR on home computer.
+* TODO Set up this repo with a analytic template.
+* TODO Look to adapt this work to a set of presentations.
+* TODO Clone official IPSUR code on GitHub and submit a change or two to the install.org file.
