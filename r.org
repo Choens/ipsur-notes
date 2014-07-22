@@ -1,0 +1,32 @@
+#+title: Document Title
+#+author: Author Name
+#+date: Date Edited
+#+options: ^:nil
+
+* README
+  
+Describe this analysis / project here.
+
+* Initialize Session
+ 
+#+begin_src R :session exports: both     
+
+#+end_src
+
+* Import Data
+
+#+begin_src R :session exports: both 
+    
+#+end_src
+
+* Data Processing
+
+#+begin_src R :session exports: both 
+
+#+end_src
+
+* Analysis
+
+#+begin_src R :session exports: both 
+
+#+end_src
