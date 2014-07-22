@@ -50,6 +50,7 @@ packages <- c(
     ##,"gplots"
     ##,"gtools"
     ##,"Hmisc"
+    "IPSUR"
     ##,"httr"
     ##,"jsonlite"
     ##,"knitr"
